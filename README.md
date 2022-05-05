@@ -10,7 +10,7 @@
 <div align="center">
   <img border-radius: 15px src="https://i.ibb.co/gML3tPB/89070690.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="CATBOT" src="https://img.shields.io/badge/Basilser-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ZARABOT" src="https://img.shields.io/badge/Fasilser-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/itsmebasil0"><img title="Author" src="https://img.shields.io/badge/Author-itsmebasil0/catbots?color=black&style=for-the-badge&logo=whatsapp"></a>
