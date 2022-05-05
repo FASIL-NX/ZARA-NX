@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *AISHU-MWOL*:  ```" + msg + "```"
+    return "✅ *ZARA-NX*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *AISHU-MWOL*:  ```" + msg + "```"
+    return "🛑 *ZARA-NX*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *AISHU-MWOL*:  ```" + msg + "```"
+    return "⏺️ *ZARA-NX*:  ```" + msg + "```"
 }
 
 
