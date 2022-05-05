@@ -69,12 +69,12 @@ the user is responsible.
 ## STEP 1 👇
 <div align="center">
   
-  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@itsmebasil/Catbot-3)
+  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AXN4QR/AISHU-MWOLQR?v=1?)
 
 ## STEP 2 👇
 <div align="center">
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsmebasil0/cat_bot2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/AISHU-MWOL.git)
      </div>
 <br>
 <br >
