@@ -74,7 +74,7 @@ the user is responsible.
 ## STEP 2 👇
 <div align="center">
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/AISHU-MWOL.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FASIL-NX/ZARA-NX.git) 
      </div>
 <br>
 <br >
