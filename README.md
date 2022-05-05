@@ -78,9 +78,9 @@ the user is responsible.
      </div>
 <br>
 <br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
+Ente github link fork cheydha sesham e deploy link click cheyya ennitt username ulla sthalath nigalude username adikka ok
 ```
-bash <(curl -L https://t.ly/tHxh)
+ https://heroku.com/deploy?template=https://github.com/username/ZARA-NX.git
 ``` 
 ## Click here to join whatsapp group 
 
