@@ -2,7 +2,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/mJhs5Bc.jpeg>
+<https://i.ibb.co/LJVz6zn/89070690.jpg>
 </p>
 
 
@@ -11,7 +11,7 @@
 </p>
 </div>
 <p align="center">
-𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗕𝗬 𝗔𝗫𝗡4
+ᴢᴀʀᴀ ʙʏ ғᴀsɪᴋ-ɴx
     <br>
        | © |
         Reserved |
@@ -48,7 +48,7 @@ $ node julie.js
 ```js
 SETUP
 $ git clone https://github.com/ameer-kallumthodi/AISHU-MWOL
-$ cd AISHU-MWOL
+$ cd ZARA-NX
 $ npm i
 $ node julie.js
 ```
@@ -56,7 +56,7 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="https://github.com/ameer-kallumthodi/AISHU-MWOL">
+  <a href="https://github.com/ameer-kallumthodi/ZARA-NX">
     
 <a href="https://github.com/ameer-kallumthodi/followers">
 <img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
@@ -72,8 +72,8 @@ $ node julie.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Bkr0eUKoVse2VgmFazzk4t)
-  <div align="center">
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png(https://chat.whatsapp.com/HafqIdLYMqIHlYYdumirxG)
+  <div align="center"> 
        
  
     
