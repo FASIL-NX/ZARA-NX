@@ -3,9 +3,9 @@
     "description": "ZARA MWOL is the Modified Version of WhatsAsena, Made By AXN4.",
     "logo": "https://i.ibb.co/LJVz6zn/89070690.jpg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Faslu12/AISHU-MWOL",
-    "website":   "https://github.com/Faslu12/AISHU-MWOL",
-    "success_url": "https://github.com/Faslu12/AISHU-MWOL",
+    "repository": "https://github.com/FASIL-NX/ZARA-NX",
+    "website":   "https://github.com/FASIL-NX/ZARA-NX",
+    "success_url": "https://github.com/FASIL-NX/ZARA-NX",
     "stack": "container",
     "env": {
         "ZARAMWOL_CODE": {
